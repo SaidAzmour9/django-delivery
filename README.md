@@ -1,1 +1,1 @@
-"# django-delivery" 
+# django-delivery
