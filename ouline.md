@@ -2,9 +2,8 @@ restarants ...
 
 
 
-restaurants : 
-      - image
-      - title 
-      - address
-      - Evaluation
-      
+home : 
+      - Restaurant image
+      - Restaurant title 
+      - Restaurant address
+      - Restaurant evaluation
